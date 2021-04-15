@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Thing 1",
+    "description": "this has a great name",
+    "imageFile": "img/things.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Thing 2",
+    "description": "this also has a great name",
+    "imageFile": "img/things.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cat in the hat",
+    "description": "this is a cat",
+    "imageFile": "img/cat.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Green eggs and ham",
+    "description": "This delicious Spanish tortilla with ham and peas makes the perfect breakfast, lunch, or dinner.",
+    "imageFile": "img/eggs.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Fish",
+    "description": "this is a fish",
+    "imageFile": "img/fish.png"
+  }
+]
